@@ -1,0 +1,48 @@
+
+.modal-dialog .modal-content {
+    border-radius: 3px;
+    color: white;
+    background-color: black;
+}
+.modal-register  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-card{
+    background-color: black;
+    margin-bottom: 72px;
+    padding: 40px 90px;
+    border-radius: 6px;
+    width: 460px;
+    color: whitesmoke;
+}
+.input {
+    width: 500px;
+}
+#input-form {
+    border-radius: 3px;
+
+}
+.input-img {
+    height: 37px;
+    border-radius: 3px;
+
+}
+#input-form{
+    border-radius: 3px;
+}
+.text {
+    color: gray;
+    font-weight: 500;
+    font-size: 14px;
+    align-items: start;
+}
+
+#close {
+    margin-left: 55px;
+    border-radius: 3px;
+}
+#update {
+    border-radius: 3px;
+}
